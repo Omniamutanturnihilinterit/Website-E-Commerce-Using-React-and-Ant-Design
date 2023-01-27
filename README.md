@@ -1,4 +1,4 @@
-# Simple-e-Commerce-Website-using-React-and-Ant-Design
+# Website-E-Commerce-Using-React-and-Ant-Design
 
 The main features includes:
 - App Header with Menu and view cart button 
